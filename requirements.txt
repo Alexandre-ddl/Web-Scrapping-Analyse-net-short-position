@@ -6,3 +6,5 @@ plotly
 numpy
 pdfplumber
 selenium
+requests
+bs4
