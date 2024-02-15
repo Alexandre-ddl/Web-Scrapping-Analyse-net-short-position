@@ -1,3 +1,3 @@
 ```
-pip install requirements
+pip install requirements.txt
 ```
