@@ -10,3 +10,4 @@ requests
 bs4
 nbformat>=4.2.0
 requests
+nbdev
